@@ -53,19 +53,22 @@ void AddNode(IntNode*& head, int value)
 
 
 /*
-Function to delete the node at the start of the linked list
+Function to delete the node at the start of the linked list and return the deleted num
 head- the pointer for the first node
 */
-void DelNode(IntNode*& head)
+int DelNode(IntNode*& head)
 {
     if (head) // If the list is not empty
     {
         IntNode* dNode = head; // Store the current head node in a temporary pointer
         head = head->next; // Update the head pointer to the next node
+        int value = dNode->value;
         delete dNode; // Delete the old head node to free the memory
+        return value;
     }
     else
     {
         std::cout << "The list is already empty. No node to delete." << std::endl;
+        return -1;
     }
 }

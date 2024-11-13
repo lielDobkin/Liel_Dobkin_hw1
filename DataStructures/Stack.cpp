@@ -7,7 +7,6 @@
  Stack*s - Pointer to the stack from which to pop the top item.
  Return -1 if stack is empty, oth
 */
- 
 int pop(Stack* s) 
 {
 	if (s->list != nullptr)
@@ -110,6 +109,6 @@ bool isEmpty(Stack* s)
  */
 bool isFull(Stack* s)
 {
-	// The stack is implemented with a linked list, so it can dynamically grow; hence, it is never full
+	// The stack is implemented with a linked list, so it can dynamically grow, so it is never full
 	return false;
 }

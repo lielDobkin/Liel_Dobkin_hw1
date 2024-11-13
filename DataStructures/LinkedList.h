@@ -14,8 +14,8 @@ void InsertAtEnd(IntNode*& head, IntNode* newNode);
 
 // Function to add a node with a given value at the start of the list
 void AddNode(IntNode*& head, int value);
-// Function to delete the node at the start of the linked list
-void DelNode(IntNode*& head);
+// Function to delete the node at the start of the linked list and return the deleted num
+int DelNode(IntNode*& head);
 
 
 

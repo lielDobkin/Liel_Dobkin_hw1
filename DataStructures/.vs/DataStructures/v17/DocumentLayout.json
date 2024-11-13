@@ -1,12 +1,105 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|solutionrelative:Utils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|solutionrelative:LinkedList.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\mainUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|solutionrelative:mainUtils.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|solutionrelative:Stack.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{03DE2BAE-34BA-47EF-83EC-6CCE7E45D10D}|DataStructures.vcxproj|solutionrelative:Utils.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Utils.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Utils.cpp",
+              "RelativeDocumentMoniker": "Utils.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Utils.cpp",
+              "RelativeToolTip": "Utils.cpp",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T17:13:40.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Utils.h",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Utils.h",
+              "RelativeDocumentMoniker": "Utils.h",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Utils.h",
+              "RelativeToolTip": "Utils.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-13T17:03:04.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LinkedList.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\LinkedList.cpp",
+              "RelativeDocumentMoniker": "LinkedList.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\LinkedList.cpp",
+              "RelativeToolTip": "LinkedList.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T19:47:03.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Stack.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Stack.cpp",
+              "RelativeDocumentMoniker": "Stack.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\Stack.cpp",
+              "RelativeToolTip": "Stack.cpp",
+              "ViewState": "AgIAAF0AAAAAAAAAAAAAAG8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T19:44:40.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mainUtils.cpp",
+              "DocumentMoniker": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\mainUtils.cpp",
+              "RelativeDocumentMoniker": "mainUtils.cpp",
+              "ToolTip": "C:\\Users\\Cyber_User\\Desktop\\LielMag2025\\Liel_Dobkin_hw1\\DataStructures\\mainUtils.cpp",
+              "RelativeToolTip": "mainUtils.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-13T18:20:42.941Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
